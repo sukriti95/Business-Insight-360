@@ -16,6 +16,13 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 -Supply Chain View: Analyze forecast accuracy and net error metrics.<br><br>
 <img src="Images/Supply_chain View.png" alt="Supply Chain View.png" width="800">
 
+-Support Page: Provides a centralized resource for users to access guidance, navigate reports, and understand key dashboard features and metrics.<br><br>
+<img src="Images/Support_view.png" alt="Supply Page.png" width="800">
+Tooltip:Provides additional contextual insights and detailed information when users hover over key visuals and metrics.
+<img src="Images/" alt="Supply Chain View.png" width="800">
+
+
+
 -Executive View: Get high-level insights with KPI cards and revenue breakdowns.<br><br>
 <img src="Images/Executive View.png" alt="Executive View.png" width="800">
 
