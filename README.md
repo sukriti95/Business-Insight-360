@@ -5,7 +5,7 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 
 # Features
 -Finance View: Explore P&L statements, product analysis, and net sales trends.
-
+Finance
 -Sales View: Dive into customer and product performance with dynamic charts and filters.
 
 -Marketing View: Gain insights into product and regional performance metrics.
