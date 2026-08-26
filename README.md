@@ -17,7 +17,7 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 <img src="Images/Supply_chain View.png" alt="Supply Chain View.png" width="800">
 
 -Executive View: Get high-level insights with KPI cards and revenue breakdowns.<br><br>
-<img src="Images/Executive View.png.png" alt="Executive View.png" width="800">
+<img src="Images/Executive View.png" alt="Executive View.png" width="800">
 
 # Data Sources
 The dashboard gathers data from two primary sources:
