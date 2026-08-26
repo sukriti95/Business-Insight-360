@@ -4,7 +4,7 @@ End-to-end Power BI analytics project featuring data modeling, DAX, interactive 
 This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
 
 # Features
--Finance View: Explore P&L statements, product analysis, and net sales trends.
+-Finance View: Explore P&L statements, product analysis, and net sales trends.<br>
 <img src="Images/Finance View.png" alt="Finance View.png" width="800">
 -Sales View: Dive into customer and product performance with dynamic charts and filters.
 
