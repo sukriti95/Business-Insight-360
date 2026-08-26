@@ -58,7 +58,8 @@ The dashboard gathers data from two primary sources:
 
 -Data integration from various sources like Excel/CSV files, MySQL database, etc.
 
-**outcome** - By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+# outcome 
+- By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
 
 
 
