@@ -7,17 +7,17 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 -Finance View: Explore P&L statements, product analysis, and net sales trends.<br><br>
 <img src="Images/Finance View.png" alt="Finance View.png" width="800">
 -Sales View: Dive into customer and product performance with dynamic charts and filters.<br><br>
-<img src="Images/Sales View.png" alt="Finance View.png" width="800">
+<img src="Images/Sales_view.png" alt="Sales View.png" width="800">
 
 
 -Marketing View: Gain insights into product and regional performance metrics.<br><br>
-<img src="Images/Marketing view.png" alt="Finance View.png" width="800">
+<img src="Images/Marketing view.png" alt="Marketing View.png" width="800">
 
 -Supply Chain View: Analyze forecast accuracy and net error metrics.<br><br>
-<img src="Images/Supply_chain View.png" alt="Finance View.png" width="800">
+<img src="Images/Supply_chain View.png" alt="Supply Chain View.png" width="800">
 
 -Executive View: Get high-level insights with KPI cards and revenue breakdowns.<br><br>
-<img src="Images/Executive View.png.png" alt="Finance View.png" width="800">
+<img src="Images/Executive View.png.png" alt="Executive View.png" width="800">
 
 # Data Sources
 The dashboard gathers data from two primary sources:
